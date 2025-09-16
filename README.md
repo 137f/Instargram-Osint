@@ -36,3 +36,14 @@ Ferramenta de **OSINT para Instagram** que utiliza a API privada para coletar in
 Este projeto foi desenvolvido **exclusivamente para fins educacionais e de pesquisa em OSINT**.  
 O desenvolvedor **não se responsabiliza** por qualquer uso indevido da ferramenta.  
 Use por sua própria conta e risco.  
+
+
+## 💌 Contato
+
+**Caso queira me contatar ou precise de algum serviço, me encontre nas seguintes plataformas:**
+
+**Usuário do Discord: 4wj.**
+
+**Instagram: @glowwz9**
+
+**E-mail: vliyanie1337@proton.me**
